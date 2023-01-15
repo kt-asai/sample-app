@@ -1,5 +1,5 @@
 <template>
-  <div>main branch: {{ msg }}</div>
+  <div>staging branch: {{ msg }}</div>
   <!-- <Tutorial /> -->
 </template>
 
